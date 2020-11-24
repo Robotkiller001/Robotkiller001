@@ -1,4 +1,6 @@
-### Hi there 👋
+### I'm working on a mod for Megaglest that improve the gameplay i hope.
+### Here is the link for the download: https://drive.google.com/file/d/161KDh_x8fpzppL6Fqg0HWoNZPvAeR9T4/view?usp=sharing
+### Every 2/3 weeks it will be balancing based on my experience and your feedback.
 
 <!--
 **Robotkiller001/Robotkiller001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
