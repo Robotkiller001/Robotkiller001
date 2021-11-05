@@ -1,5 +1,8 @@
-### I'm working on a mod for Megaglest that improve the gameplay i hope.
-### Every 2/3 weeks it will be rebalanced based on the game experience and your feedback.
+I'm working on a mod called "Megapack Improved" for Megaglest that improve the gameplay i hope.
+Every 2/3 weeks it will be rebalanced based on the game experience and your feedback.
+
+And more recently i starded a second mod called "Insects World" wich is a mod with only factions
+using insects.
 
 <!--
 **Robotkiller001/Robotkiller001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
