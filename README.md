@@ -1,7 +1,7 @@
 I'm working on a mod called "Megapack Improved" for Megaglest that improve the gameplay i hope.
 Every 2/3 weeks it will be rebalanced based on the game experience and your feedback.
 
-And more recently i starded a second mod called "Insects World" wich is a mod with only factions
+And more recently i starded a second mod called "Insects World" which is a mod with only factions
 using insects.
 
 <!--
