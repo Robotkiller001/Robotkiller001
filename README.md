@@ -4,6 +4,8 @@ Every 2/3 weeks it will be rebalanced based on the game experience and your feed
 And more recently i starded a second mod called "Insects World" which is a mod with only factions
 using insects.
 
+If you want suggestions on how to balance your game meta you can contact me on IG: simone01rossi
+
 <!--
 **Robotkiller001/Robotkiller001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
